@@ -49,3 +49,14 @@ ShipRateHub is an Android application designed to help customers compare shipmen
 
    ```bash
    git clone https://github.com/RumiBuilds/ShipRateHub.git
+
+  ## Security
+
+Firebase configuration files and sensitive credentials should not be committed to a public repository.
+
+Use your own Firebase project configuration when running the application.
+## Developer
+
+### Rimsha Tariq
+
+Computer Science Graduate
