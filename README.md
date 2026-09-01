@@ -57,7 +57,7 @@ ShipRateHub is an Android application designed to help customers compare shipmen
 - Connect an Android device or start an emulator.
 - Build and run the application.
 
-  ## Security
+## Security
 
 Firebase configuration files and sensitive credentials should not be committed to a public repository.
 Use your own Firebase project configuration when running the application.
