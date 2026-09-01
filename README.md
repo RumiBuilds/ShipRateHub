@@ -45,18 +45,27 @@ ShipRateHub is an Android application designed to help customers compare shipmen
 
 ## Setup & Installation
 
-1. Clone the repository:
+- Clone the repository:
 
    ```bash
    git clone https://github.com/RumiBuilds/ShipRateHub.git
 
+- Open the project in Android Studio.
+- Allow Gradle to sync and download the required dependencies.
+- Configure your own Firebase project.
+- Add your own google-services.json file inside the app directory.
+- Connect an Android device or start an emulator.
+- Build and run the application.
+
   ## Security
 
 Firebase configuration files and sensitive credentials should not be committed to a public repository.
-
 Use your own Firebase project configuration when running the application.
+
 ## Developer
 
 ### Rimsha Tariq
 
 Computer Science Graduate
+
+⭐ If you like this project, feel free to give it a star!
